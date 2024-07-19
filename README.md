@@ -8,19 +8,19 @@
 
 ###
 
-<h6 align="left">I am a Full Stack Developer with strong problem-solving skills and a passion for tackling challenges.</h6>
+<p align="left">I am a Full Stack Developer with strong problem-solving skills and a passion for tackling challenges.</p>
 
 ###
 
-<h6 align="left">I have collaborated with various university societies, such as the Google Developer Student Club (GDSC), to create impactful projects.</h6>
+<p align="left">I have collaborated with various university societies, such as the Google Developer Student Club (GDSC), to create impactful projects.</p>
 
 ###
 
-<h6 align="left">Professionally, I contributed to Intellogeek.com by developing an advanced course-selling platform using Next.js. Additionally, I built the ARIIS railway tracking web application, also leveraging Next.js, for a client.</h6>
+<p align="left">Professionally, I contributed to Intellogeek.com by developing an advanced course-selling platform using Next.js. Additionally, I built the ARIIS railway tracking web application, also leveraging Next.js, for a client.</p>
 
 ###
 
-<h6 align="left">With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.</h6>
+<p align="left">With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.</p>
 
 ###
 
@@ -32,7 +32,9 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-umer-988b31221/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
