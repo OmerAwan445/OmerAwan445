@@ -11,18 +11,22 @@
 👋 <p align="left">I am a Full Stack Developer with strong problem-solving skills and a passion for tackling challenges.</p>
 
 ###
+
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" /> <p align="left" style="display:inline">I have collaborated with various university societies, such as the Google Developer Student Club (GDSC), to create impactful projects.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" style="vertical-align: middle; display: inline-block;" />
+  <p align="left" style="display: inline-block; margin-left: 5px;">I have collaborated with various university societies, such as the Google Developer Student Club (GDSC), to create impactful projects.</p>
 </div>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> <p align="left" style="display:inline">Professionally, I contributed to Intellogeek.com by developing an advanced course-selling platform using Next.js. Additionally, I built the ARIIS railway tracking web application, also leveraging Next.js, for a client.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" style="vertical-align: middle; display: inline-block;" />
+  <p align="left" style="display: inline-block; margin-left: 5px;">Professionally, I contributed to Intellogeek.com by developing an advanced course-selling platform using Next.js. Additionally, I built the ARIIS railway tracking web application, also leveraging Next.js, for a client.</p>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="20" /> <p align="left" style="display:inline">With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="20" style="vertical-align: middle; display: inline-block;" />
+  <p align="left" style="display: inline-block; margin-left: 5px;">With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.</p>
 </div>
 
 ###
