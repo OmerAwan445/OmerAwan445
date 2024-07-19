@@ -4,7 +4,7 @@
   <img height="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed"  />
 </div>
 
-  <br><br>
+  <br>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/OmerAwan445/OmerAwan445&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
@@ -22,7 +22,7 @@
 
 🔮&nbsp; With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.
 
-<br><br>
+<br>
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
