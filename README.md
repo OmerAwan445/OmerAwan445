@@ -8,19 +8,21 @@
 
 ###
 
-<p align="left">I am a Full Stack Developer with strong problem-solving skills and a passion for tackling challenges.</p>
+👋 <p align="left">I am a Full Stack Developer with strong problem-solving skills and a passion for tackling challenges.</p>
 
 ###
 
-<p align="left">I have collaborated with various university societies, such as the Google Developer Student Club (GDSC), to create impactful projects.</p>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" /> <p align="left">I have collaborated with various university societies, such as the Google Developer Student Club (GDSC), to create impactful projects.</p>
 
 ###
 
-<p align="left">Professionally, I contributed to Intellogeek.com by developing an advanced course-selling platform using Next.js. Additionally, I built the ARIIS railway tracking web application, also leveraging Next.js, for a client.</p>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
+ <p align="left">Professionally, I contributed to Intellogeek.com by developing an advanced course-selling platform using Next.js. Additionally, I built the ARIIS railway tracking web application, also leveraging Next.js, for a client.</p>
 
 ###
 
-<p align="left">With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.</p>
+<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" />
+ <p align="left">With a solid foundation in AI, I am eager to further explore this fascinating field and incorporate its innovative solutions into my work.</p>
 
 ###
 
@@ -33,11 +35,14 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammad-umer-988b31221/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.instagram.com/omerawan__/" target="_blank">
+ <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+  </a>
+  <a href="https://www.facebook.com/omer.awan.5201/" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+  </a>
 </div>
 
 ###
