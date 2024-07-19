@@ -4,6 +4,15 @@
   <img height="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed"  />
 </div>
 
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/OmerAwan445/OmerAwan445&label=VISITORS&labelColor=%23000&countColor=%230A0209https://api.visitorbadge.io/api/visitors?path=https://github.com/OmerAwan445/OmerAwan445&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/muhammad-umer-988b31221/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Muhammad Umer" /></a>
+  <a href="mailto:omerawan445@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Umer i.e.   omerawan445@gmail.com" /></a>
+  <a href="https://discord.com/users/728322414915747872"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username omerawan(OmerAwan#7924)" ></a>
+</div>
+<br>
+
 👋 &nbsp; I am a Full Stack Developer with strong problem-solving skills and a passion for tackling challenges.
 
 🤝 &nbsp; I have collaborated with university society, such as the Google Developer Student Club (GDSC), to create impactful projects.
